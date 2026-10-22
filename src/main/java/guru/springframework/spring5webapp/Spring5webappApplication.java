@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Spring5webappApplication {
 
 	public static void main(String[] args) {
-		System.out.println("teste novo");
+		System.out.println("teste novo de novo");
 		SpringApplication.run(Spring5webappApplication.class, args);
 	}
 }
